@@ -44,7 +44,7 @@
     "typescript": "5.9.3",
     "vinext": "0.0.50",
     "vite": "^8.2.1",
-    "wrangler": "^4.121.0"
+    "wrangler": "^4.127.1"
   },
   "type": "module",
   "displayName": "Konteyner Operasyon Takip"
